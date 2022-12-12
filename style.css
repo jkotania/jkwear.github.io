@@ -41,14 +41,6 @@ body{
     margin: 0 30px;
     display: inline-block;
 }
-.home{
-    color: white;
-    font-weight: bolder;
-    padding: 5px 0;
-    font-size: 18px;
-    position: relative;
-    text-decoration: none;
-}
 .coq{
     text-decoration: none;
     padding: 5px 0;
