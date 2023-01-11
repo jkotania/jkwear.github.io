@@ -31,6 +31,14 @@ body{
     -ms-user-select: none; /* Internet Explorer/Edge */
     user-select: none;
 }
+.home a{
+    text-decoration: none;
+    padding: 5px 0;
+    position: relative;
+    font-size: 1.2vw;
+    color: gray;
+    font-weight: 600;
+}
 .navlinks{
     display: flex;
     align-items: center;
@@ -44,6 +52,7 @@ body{
 .coq{
     text-decoration: none;
     padding: 5px 0;
+    font-size: 1.1vw;
     position: relative;
     color: white;
 }
@@ -141,8 +150,8 @@ span:nth-child(2) {
 
 .headercontent h3{
     position: relative;
-    left: 1vw;
-    bottom: 6.5vw;
+    right: 4vw;
+    bottom: 7vw;
     max-width: 40ch;
     font-size: 1.8vw;
     color: #B2B2B2;
@@ -154,7 +163,7 @@ span:nth-child(3) {
 .headercontent h4{
     color: #B2B2B2;
     position: relative;
-    left: 2.8vw;
+    right: 3vw;
     bottom: 0vw;
     max-width: 40ch;
     font-size: 1.8vw;
